@@ -1,6 +1,6 @@
 ### Welcome to my Github 🙂
 
-I am a software engineer and Makers Academy Graduate, with experience in `Node.js`, `JavaScript` and `Ruby on Rails`.
+I am a software engineer and Makers Academy Graduate, with experience and confidence in `Node.js`, `JavaScript` and `Ruby on Rails`, with working knowledge in `Python`.
 
 Solving problems through high quality code and learning new things each day is what I love about this industry. 
 
