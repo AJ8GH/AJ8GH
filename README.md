@@ -1,4 +1,4 @@
-### Welcome to my Github 🙂
+<h1 align="center">Hi 👋 I'm Adam<h1>
 
 Languages:
 * `Node.js` & `JavaScript`
