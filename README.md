@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Adam<h1>
+<p align="center">Hi 👋 I'm Adam<p>
 
 Languages:
 * `Node.js` & `JavaScript`
