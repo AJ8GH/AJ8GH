@@ -12,7 +12,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   
-  <a href="https://github.com/AJ8GH/algorithmic-complexity" target="_blank"> 
+  <a href="https://github.com/AJ8GH/code-timer" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
   
@@ -24,7 +24,7 @@
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   </a>
   
-  <a href="https://github.com/AJ8GH/py-buzz" target="_blank">
+  <a href="https://github.com/AJ8GH/rock-paper-scissors-lizard-spock" target="_blank">
     <img src="https://user-images.githubusercontent.com/76049802/117265053-bf49d800-ae4b-11eb-80fd-38fc697d2a5b.png" alt="python" width="40" height="40"/> 
   </a>
 </p>
