@@ -1,4 +1,4 @@
-## <p align="center">Platform Java engineer, passionate about building high-quality software 🛠<p>
+## <p align="center">Platform Java Engineer, passionate about building high-quality software 🛠<p>
   
 
 <p align="center">
