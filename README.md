@@ -1,4 +1,4 @@
-## <p align="center">Platform Java Engineer, passionate about building high-quality software 🛠<p>
+## <p align="center">Backend Engineer with strengths in Java and TDD<p>
   
 
 <p align="center">
